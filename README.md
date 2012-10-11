@@ -1,6 +1,6 @@
 #  Clojure/Compojure clickstart
 
-This clickstart demonstrates a Compojure app
+This clickstart demonstrates a Compojure app - all thanks to the <a href="http://www.meetup.com/Austin-Clojure-Meetup/">Austin Clojure group</a>
 
 <a href="https://grandcentral.cloudbees.com/?CB_clickstart=https://raw.github.com/CloudBees-community/clojure-clickstart/master/clickstart.json"><img src="https://s3.amazonaws.com/cloudbees-downloads/clickstart/clickstart-now.png"/></a>
 
