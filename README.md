@@ -1,5 +1,7 @@
 #  Clojure/Compojure clickstart
 
+Build status: [![Build Status](https://buildhive.cloudbees.com/job/CloudBees-community/job/clojure-clickstart/badge/icon)](https://buildhive.cloudbees.com/job/CloudBees-community/job/clojure-clickstart/)
+
 This clickstart demonstrates a simple clojure with compojure app built via lein - all thanks to the <a href="http://www.meetup.com/Austin-Clojure-Meetup/">Austin Clojure group</a>
 
 Clickstarts are quickstarts (hey that rymes!) that get you going with a private repo, build and continuous deployment. 
